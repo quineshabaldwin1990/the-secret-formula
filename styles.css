@@ -1,0 +1,32 @@
+input[type="button"],body{font-family:"Courier New", Courier, monospace;padding:5px;}
+input[type="text"]{background-color:#DEDEE6;border:4px solid black;margin:2px;}
+input[type="radio"]{background-color:#DEDEE6;border:4px solid black;margin:2px;}
+input[type="password"]{background-color:#DEDEE6;border:4px solid black;margin:2px;}
+input[type="date"]{background-color:#DEDEE6;border:4px solid black;margin:2px;}
+input[type="text"]{background-color:#DEDEE6;border:4px solid black;margin:2px;}
+input[type="button"]{color:white;background-color:black;border:1px solid white;margin:2px;}
+div {
+    color: #DEDEE6;
+    background-color:navy;border:solid orange 7px; border-radius: 25px;width:500px;
+  }
+
+  #int
+  {
+    width:200px;float:left
+  }
+  #t
+  {
+    color:white;background-color:orange;border:solid orange 2px; margin-bottom:2px;
+  }
+  form{
+    color:white;padding:5px
+  }
+  label {
+    cursor: pointer;
+    color: #555;
+    display: block;
+    padding: 10px;
+    margin: 3px;
+    font-weight: bold;
+    font-display: white;
+}
